@@ -19,6 +19,8 @@
         <module>toeic-core-utils</module>
         <module>toeic-web</module>
         <module>toeic-web-logic</module>
+        <module>toeic-core-persistence-data</module>
+        <module>toiec-core-common</module>
     </modules>
 
     <properties>
